@@ -35,6 +35,12 @@
             width: 73%;
         
         }
+        #fomulario > h1{
+            font-size: 2em;
+        }
+        div#fomulario > p{
+            font-size: 1.2em;
+          }
 
     
 }
